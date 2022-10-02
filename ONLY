@@ -26,4 +26,8 @@ https://www.youtube.com/embed/-jBuSK-Zi5E
 
 #EXTINF:-1 ,ESPN PREMIUM
 
-https://futbollibre.net/embed/?r=Ly92dy1zb3VyY2UuY29tL3N0cmVhbS9kL3ZpeC5odG1s&tnt&p=SQzGOwpK
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_0_8128000.m3u8
+
+#EXTINF:-1 ,ESPN
+
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.m3u8
