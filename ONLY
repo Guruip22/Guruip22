@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 ,A24 
+
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/d92ccb22-dcb0-44f6-8e8b-d61dce3e4a5e:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+
+#EXTINF:-1 ,ELTRECE
+
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 ,CANAL 26
+
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1004311787_b414000_sleng.m3u8
+
+#EXTINF:-1 ,CANAL 9
+
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/65995735-024a-4f5f-9788-d4b6385e987a/0.m3u8
+
+#EXTINF:-1 ,TYCSPORTS
+
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
